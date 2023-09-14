@@ -8,3 +8,11 @@ Motivation: Education is a very vital part of our childhoods and helps shape us 
 
 Additional Info: The cleaned data was pushed into our Google BigQuery Data Warehouse, where we ran queries to answer our KPIs, then connected it to Tableau to visualize.
 
+KPIs: 
+1. Average grades for math and reading per year
+2. Standard deviation of grades for math and reading per year
+3. Average grades for math and reading by borough
+4. Average grades for math and reading by district
+5. Average grades for math and reading per grade 
+
+
